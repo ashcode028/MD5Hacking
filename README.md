@@ -32,4 +32,4 @@ Given this data,I had to find all pins except one.
 |collemc@umich.edu |???? |acf06cdd9c744f969958e1f085554c8b|
 
 [cracked_pin_output](images/crackedpin.png)
-[uncracked_pin_output] (images/uncracked_pin.png)
+[uncracked_pin_output](images/uncracked_pin.png)
