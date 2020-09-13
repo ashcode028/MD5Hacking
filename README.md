@@ -31,5 +31,5 @@ Given this data,I had to find all pins except one.
 |font@umich.edu	   |???? |1d8d70dddf147d2d92a634817f01b239|
 |collemc@umich.edu |???? |acf06cdd9c744f969958e1f085554c8b|
 
-[cracked_pin_output](cracked pin.png)
-[uncracked_pin_output](un cracked pin.png)
+[cracked_pin_output](images/crackedpin.png)
+[uncracked_pin_output] (images/uncracked_pin.png)
