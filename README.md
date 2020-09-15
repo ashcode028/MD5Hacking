@@ -22,6 +22,7 @@ $check = hash('md5', 1234); // Incorrect - hashing an integer
 ```
 It also prints out the first 15 attempts to reverse-hash including both the MD5 value and PIN that it was testing.It also prints out the elapsed time for your computation.
 
+This code works for all hash_pins
 Given this data,I had to find all pins except one.
 | email	           | pin | hash_pin                      |
 |------------------|-----|-------------------------------|
@@ -31,5 +32,5 @@ Given this data,I had to find all pins except one.
 |font@umich.edu	   |???? |1d8d70dddf147d2d92a634817f01b239|
 |collemc@umich.edu |???? |acf06cdd9c744f969958e1f085554c8b|
 
-- [cracked_pin_output](images/crackedpin.png)
-- [uncracked_pin_output](images/uncracked_pin.png)
+- ![cracked_pin_output](images/crackedpin.png)
+- ![uncracked_pin_output](images/uncracked_pin.png)
